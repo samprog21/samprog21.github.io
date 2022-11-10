@@ -3,7 +3,7 @@
 - basic App for simulationg bank transection
 
 ## functionality
-- Not a responsive web , but it has vanilajs and cool css effects reprents modern app design
+- Not a responsive web , but it has vanilajs and cool css effects represents modern app design
 
 ### Ownership Note
 
