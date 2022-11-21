@@ -1,0 +1,29 @@
+/** @format */
+
+.box-items {
+    border-radius: 5%;
+
+    background-color: #3d3737;
+    background-image: linear-gradient(19deg,
+            #3d3737 0%,
+            #3d3737 100%);
+
+    transition: all 0.22s ease-in-out;
+    margin-top: 1rem;
+}
+
+.box-items:hover {
+    transform: scale(1.02);
+}
+
+.card-items {
+    border: 1px solid black;
+    height: 400px;
+    width: auto;
+    border-radius: 5%;
+    box-shadow: 0 8px 32px 0 rgb(30, 30, 31);
+
+    background-image: linear-gradient(19deg,
+            #648cb4 0%,
+            rgb(169, 198, 244) 100%);
+}
